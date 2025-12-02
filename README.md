@@ -44,3 +44,20 @@ _здесь рецепт раскрывается в полной мере, за
 14. Как только все ингредиенты стали мягкими борщ готов на 80%
 15. выключаем огонь, даим настояться, цвет будет меняться час за часом. На практике часа три для полного настоя цвета.
 16. Подавать со сметаной и нарезкой из зелени.
+
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; max-width: 800px; margin: 0 auto; padding: 10px;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_1_2025-12-02_19-36-12.jpg" alt="Photo 1" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_2_2025-12-02_19-36-12.jpg" alt="Photo 2" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_3_2025-12-02_19-36-12.jpg" alt="Photo 3" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_4_2025-12-02_19-36-12.jpg" alt="Photo 4" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_5_2025-12-02_19-36-12.jpg" alt="Photo 5" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_6_2025-12-02_19-36-12.jpg" alt="Photo 6" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_7_2025-12-02_19-36-12.jpg" alt="Photo 7" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_8_2025-12-02_19-36-12.jpg" alt="Photo 8" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_9_2025-12-02_19-36-12.jpg" alt="Photo 9" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_10_2025-12-02_19-36-12.jpg" alt="Photo 10" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_11_2025-12-02_19-36-12.jpg" alt="Photo 11" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_12_2025-12-02_19-36-12.jpg" alt="Photo 12" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+  <img src="https://github.com/Nikit-S/savva_birthday_borsch/raw/master/photos/photo_13_2025-12-02_19-36-12.jpg" alt="Photo 13" style="width: 100%; height: auto; border-radius: 6px; display: block;">
+</div>
